@@ -7,5 +7,8 @@
 
 <img width="494" alt="image" src="https://github.com/bcvgh/Kingdee_erp_MemShell/assets/56790427/1dce3770-af08-462d-b9b5-de55591206ab">
 
+refer：
+https://github.com/pwntester/ysoserial.net/blob/master/ExploitClass/GhostWebShell.cs
+
 
 
